@@ -1,0 +1,17 @@
+{
+  "name": "roblox-discord-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for sending messages from Roblox to Discord",
+  "main": "api/send.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
